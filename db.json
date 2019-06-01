@@ -1,0 +1,364 @@
+{
+  "Zone": [
+    {
+      "Name": "Помпа",
+      "IsConfigured": true,
+      "Relays": [
+        {
+          "inZone": true
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": true
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        }
+      ]
+    },
+    {
+      "Name": "Краставици",
+      "IsConfigured": true,
+      "Relays": [
+        {
+          "inZone": false
+        },
+        {
+          "inZone": true
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": true
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        }
+      ]
+    },
+    {
+      "Name": "Домати",
+      "IsConfigured": true,
+      "Relays": [
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": true
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": true
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        }
+      ]
+    },
+    {
+      "Name": "Други",
+      "IsConfigured": true,
+      "Relays": [
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": true
+        },
+        {
+          "inZone": true
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        }
+      ]
+    },
+    {
+      "Name": "Дървета",
+      "IsConfigured": true,
+      "Relays": [
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": true
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        }
+      ]
+    },
+    {
+      "Name": "Празно",
+      "IsConfigured": false,
+      "Relays": [
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        }
+      ]
+    },
+    {
+      "Name": "Празно",
+      "IsConfigured": false,
+      "Relays": [
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        }
+      ]
+    },
+    {
+      "Name": "Празно",
+      "IsConfigured": false,
+      "Relays": [
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        }
+      ]
+    },
+    {
+      "Name": "Празно",
+      "IsConfigured": false,
+      "Relays": [
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        }
+      ]
+    },
+    {
+      "Name": "Празно",
+      "IsConfigured": false,
+      "Relays": [
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        }
+      ]
+    },
+    {
+      "Name": "Празно",
+      "IsConfigured": false,
+      "Relays": [
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        }
+      ]
+    },
+    {
+      "Name": "Празно",
+      "IsConfigured": false,
+      "Relays": [
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        },
+        {
+          "inZone": false
+        }
+      ]
+    }
+  ]
+}
